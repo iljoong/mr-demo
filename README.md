@@ -22,6 +22,8 @@
 
 ## Azure Digital Twin
 
+> This is a [Metaverse apps](https://azure.microsoft.com/en-us/blog/converging-the-physical-and-digital-with-digital-twins-mixed-reality-and-metaverse-apps) concept version of [Doosan Wind Farm Digital Twin](https://www.youtube.com/watch?v=foVIWE01zmA)
+> 
 [![Azure Digital Twin](https://img.youtube.com/vi/WeBoPoApwQI/0.jpg)](https://youtu.be/WeBoPoApwQI)
 
 - Development guide at [Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/build-mixed-reality-azure-digital-twins-unity/)
