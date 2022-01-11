@@ -36,3 +36,6 @@
 
 - See more information in [Trimble Connect](https://connect.trimble.com/)
 
+## Microsoft Mesh + 3D Object
+
+[![Microsoft Mesh + 3D Object](https://img.youtube.com/vi/-jRUJdf2rgI/2.jpg)](https://youtu.be/-jRUJdf2rgI)
