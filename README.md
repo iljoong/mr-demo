@@ -38,4 +38,6 @@
 
 ## Microsoft Mesh + 3D Object
 
-[![Microsoft Mesh + 3D Object](https://img.youtube.com/vi/-jRUJdf2rgI/2.jpg)](https://youtu.be/-jRUJdf2rgI)
+[![Microsoft Mesh + 3D Object](https://img.youtube.com/vi/-jRUJdf2rgI/0.jpg)](https://youtu.be/-jRUJdf2rgI)
+
+Microsoft Mesh with [user content (3D model)](https://docs.microsoft.com/en-us/mesh/mesh-app/use-mesh/import-content). Demo model is captured with Apple's [Object Capture API](https://developer.apple.com/kr/augmented-reality/object-capture/).
